@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Fira Sans Condensed", sans-serif;
 }
 
 .navbar-fixed {
